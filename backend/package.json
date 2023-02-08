@@ -1,0 +1,20 @@
+{
+  "name": "makaanbecho",
+  "version": "1.0.0",
+  "description": "Market place to sell/buy house",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Shantanu Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
